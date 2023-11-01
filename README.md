@@ -18,7 +18,7 @@ IBM Visual Recognition is a powerful tool that can enhance image analysis workfl
 
 ## Introduction
 
-Provide a brief introduction to your website, its purpose, and any other relevant information.
+IBM Visual Recognition is an AI-powered service that uses deep learning algorithms to analyze images and identify objects, scenes, and faces in them. It can also detect inappropriate content and extract text from images.
 
 ## Getting Started
 
